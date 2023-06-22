@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStore",
+    "\\BookStore\\Controllers",
+    "\\BookStore\\Views",
+    "\\BookStore\\Views\\GioiThieu"
+  ],
+  "SelectedNode": "\\BookStore\\Views\\GioiThieu\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
